@@ -13,6 +13,6 @@ Olá sou o @lucasbalani
 - :computer: JAVA SE | SQL | HTML | JS | Spring Boot REST | GIT | HEROKU | Spring MVC | Spring Security | JPA | Lombok
 - :book: Atualmente estou lendo "OCA Java SE 8: Guia de Estudos para o Exame 1Z0-808".
 - :book: Atualmente estou lendo "Produtividade no Desenvolvimento de Aplicações Web com Spring Boot".
-- :mortar_board: Ciência da Computação - Estácio - Ribeirao Preto - Brazil [4/5].
+- :mortar_board: Ciência da Computação - Estácio - Brazil [4/5].
 - 📫 lucasbalani@gmail.com || +5516988296172
 

@@ -1,18 +1,33 @@
-Hi I’m @lucasbalani
-- :satellite: Brazilian.
-- :hotsprings: I'm a young JAVA developer looking for new challenges.
-- :computer: JAVA SE | SQL | HTML | JS | Spring Boot REST | GIT | HEROKU | Spring MVC | Spring Security | JPA | Lombok
-- :book: I’m currently learning "OCA Java SE 8: Guia de Estudos para o Exame 1Z0-808".
-- :book: I’m currently learning "Produtividade no Desenvolvimento de Aplicações Web com Spring Boot".
-- :mortar_board: Ciência da Computação - Estácio - Brazil [4/5].
-- 📫 lucasbalani@gmail.com || +5516988296172
-------------------------------------------------------------------------------------------
-Olá sou o @lucasbalani
-- :satellite: Brasileiro.
-- :hotsprings: Sou um jovem desenvolvedor JAVA em busca de novos desafios.
-- :computer: JAVA SE | SQL | HTML | JS | Spring Boot REST | GIT | HEROKU | Spring MVC | Spring Security | JPA | Lombok
-- :book: Atualmente estou lendo "OCA Java SE 8: Guia de Estudos para o Exame 1Z0-808".
-- :book: Atualmente estou lendo "Produtividade no Desenvolvimento de Aplicações Web com Spring Boot".
-- :mortar_board: Ciência da Computação - Estácio - Brazil [4/5].
-- 📫 lucasbalani@gmail.com || +5516988296172
+Olá! 👋
 
+Meu nome é Lucas, tenho 22 anos e sou um desenvolvedor apaixonado por criar soluções inovadoras e escaláveis. Com vasta experiência em desenvolvimento de software, estou constantemente em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.
+
+Tenho experiência principalmente com as seguintes tecnologias:
+
+Front-End:
+- Angular
+- React
+- React-Native
+  
+Back-End:
+- C#
+- .NET 8
+- Entity Framework
+- RabbitMQ
+- MediatR
+- AutoMapper
+
+DevOps:
+- Jenkins
+- Bitbucket Pipelines
+- Docker
+- Design Patterns:
+
+Design Patterns:
+- CQRS
+- DDD (Domain-Driven Design)
+- FEATURE
+- MVC (Model-View-Controller)
+Você pode me encontrar também no LinkedIn: https://www.linkedin.com/in/lucas-balani-616b1a148/.
+
+Vamos construir algo incrível juntos! 🚀

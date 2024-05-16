@@ -31,3 +31,5 @@ Design Patterns:
 Você pode me encontrar também no LinkedIn: https://www.linkedin.com/in/lucas-balani-616b1a148/.
 
 Vamos construir algo incrível juntos! 🚀
+
+![snake gif](https://github.com/lucasbalani/lucasbalani/blob/output/github-contribution-grid-snake.svg)

@@ -28,6 +28,8 @@ Design Patterns:
 - DDD (Domain-Driven Design)
 - FEATURE
 - MVC (Model-View-Controller)
+
+
 Você pode me encontrar também no LinkedIn: https://www.linkedin.com/in/lucas-balani-616b1a148/.
 
 Vamos construir algo incrível juntos! 🚀

@@ -34,6 +34,8 @@ Você pode me encontrar também no LinkedIn: https://www.linkedin.com/in/lucas-b
 
 Vamos construir algo incrível juntos! 🚀
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbalani)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

@@ -21,7 +21,6 @@ DevOps:
 - Jenkins
 - Bitbucket Pipelines
 - Docker
-- Design Patterns:
 
 Design Patterns:
 - CQRS

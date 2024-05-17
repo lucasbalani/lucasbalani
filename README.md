@@ -11,7 +11,7 @@ Front-End:
   
 Back-End:
 - C#
-- .NET 8
+- .NET
 - Entity Framework
 - RabbitMQ
 - MediatR

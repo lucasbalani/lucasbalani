@@ -1,6 +1,6 @@
 Olá! 👋
 
-Meu nome é Lucas, tenho 22 anos e sou um desenvolvedor apaixonado por criar soluções inovadoras e escaláveis. Com vasta experiência em desenvolvimento de software, estou constantemente em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e escaláveis. Com vasta experiência em desenvolvimento de software, estou constantemente em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.
 
 Tenho experiência principalmente com as seguintes tecnologias:
 
@@ -8,7 +8,7 @@ Front-End:
 - Angular
 - React
 - React-Native
-  
+
 Back-End:
 - C#
 - .NET
@@ -24,7 +24,6 @@ DevOps:
 
 Design Patterns:
 - CQRS
-- DDD (Domain-Driven Design)
 - FEATURE
 - MVC (Model-View-Controller)
 

@@ -10,7 +10,7 @@ Front-End:
 - React-Native
 
 Back-End:
-- C#
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="python" width="40" height="40"/> 
 - .NET
 - Entity Framework
 - RabbitMQ
@@ -26,7 +26,6 @@ Design Patterns:
 - CQRS
 - FEATURE
 - MVC (Model-View-Controller)
-
 
 Você pode me encontrar também no LinkedIn: https://www.linkedin.com/in/lucas-balani-616b1a148/.
 

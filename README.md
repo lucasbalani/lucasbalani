@@ -1,11 +1,9 @@
-Olá! 👋
+Sou um apaixonado da tecnologia aplicada a negócios, detalhista e perfeccionista.
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e escaláveis. Com vasta experiência em desenvolvimento de software, estou constantemente em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.
-
-Tenho experiência principalmente com as seguintes tecnologias:
+Trabalho a <strong>3+</strong> anos utilizando a stack de tecnologias <strong>.NET, Angular, React, RabbitMQ, Entity Framework, Docker, Jenkins </strong> para oferecer soluções inteligentes e precisas para o cliente.
 
 <div>
-<h4>Front-End:</h4>
+<h4>Front-End</h4>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="ReactNative" width="40" height="40"/>
@@ -27,10 +25,14 @@ Tenho experiência principalmente com as seguintes tecnologias:
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
 </div>
 
-Design Patterns:
-- CQRS
-- FEATURE
-- MVC (Model-View-Controller)
+<div>
+<h4>Design Patterns:</h4>
+<strong>CQRS | </strong>
+<strong>FEATURE | </strong>
+<strong>MVC</strong>
+</div>
+<br />
+<br />
 
 Você pode me encontrar também no LinkedIn: https://www.linkedin.com/in/lucas-balani-616b1a148/.
 

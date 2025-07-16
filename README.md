@@ -1,6 +1,6 @@
 Sou um apaixonado da tecnologia aplicada a negócios, detalhista e perfeccionista.
 
-Trabalho a <strong>3+</strong> anos utilizando a stack de tecnologias <strong>.NET, Angular, React, RabbitMQ, Entity Framework, Docker, Jenkins </strong> para oferecer soluções inteligentes e precisas para o cliente.
+Trabalho a <strong>4+</strong> anos utilizando a stack de tecnologias <strong>.NET, Angular, React, RabbitMQ, Entity Framework, Docker, Jenkins </strong> para oferecer soluções inteligentes e precisas para o cliente.
 
 <div>
 <h4>Front-End</h4>
